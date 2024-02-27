@@ -1,4 +1,4 @@
-sring = "python"
+string = "jxq"
 list = ['pig','dog']
 number = 1
 dictionary = {'pig':1}
