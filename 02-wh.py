@@ -1,4 +1,4 @@
-number = 1 #数字
+number = 1.0 #数字
 string = 'string' #字符串
 boolean = True #布尔
 list = [1,'string',False] #列表（我之前一直说的数组是JavaScript里的概念）
